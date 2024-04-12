@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## I'm Katrin Spasova!
 ### Now I'm learning Java in SoftUni!
-
+------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/katrin-spasova-062995303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katrin-spasova-062995303" height="30" width="40" /></a>
@@ -16,16 +16,26 @@
 
 
 ### My Stats :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katrinspasova97&theme=tokyonight" alt="katrinspasova97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katrinspasova97&show_icons=true&theme=tokyonight&locale=en" alt="katrinspasova97" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katrinspasova97&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="katrinspasova97" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katrinspasova97&theme=dark" alt="katrinspasova97" /></p>
+### Certificates && Repositories:
+| Course  | GitHub Repository | Certificate |
+| ------------- | ------------- | ------------- | 
+| Java OOP | Repository  | [Certificate](https://softuni.bg/certificates/details/211134/64617bbd)  | 
+| Java Advanced | Repository  |[Certificate](https://softuni.bg/certificates/details/203478/bf15e8f4)  | 
+| Java Fundamentals | Repository  | [Certificate ](https://softuni.bg/certificates/details/195229/2b210872) | 
+| Java Basics  | Repository  | [Certificate](https://softuni.bg/certificates/details/172610/fa974fe8)  | 
 
 <p><img src="https://komarev.com/ghpvc/?username=katrinspasova97&label=Profile%20views&color=0e75b6&style=flat" alt="katrinspasova97" /></p>
-
-
 <!--
 **katrinspasova97/katrinspasova97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
